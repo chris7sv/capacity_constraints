@@ -6,5 +6,6 @@ bioRxiv 2022.03.31.486580; doi: https://doi.org/10.1101/2022.03.31.486580
 
 If re-using code from this repository please cite accordingly
 
-More updates and links to data hosting to come soon.
+Data from simulations and behavioural experiments reported in the article can be accessed here:
 
+https://osf.io/y2kjz/
